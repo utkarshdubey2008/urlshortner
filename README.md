@@ -1,10 +1,10 @@
-# GplinksBot
-A BOT THAT CAN SHORTEN YOUR LONG URL TO SHORT URL USING GPLINKS API
+# Urlshortner
+A BOT THAT CAN SHORTEN YOUR URL USING GPLINKS API
 
 # DEPLOY 
 YOU CAN SIMPLY DEPLOY ON HEROKU BY CLICKING THE BUTTON BELOW
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Benchamxd/GplinksBot/tree/master)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/utkarshdubey2008/urlshortner/tree/master)
 
 AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<your bot token>/setwebhook?url=<Heroku URL>``
 
@@ -14,16 +14,12 @@ AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<your bot token>/setwebhook
 
 ``BOT_USERNAME : YOUR TELEGRAM BOT TOKEN``
 
-``GP_API_KEY : YOUR TELEGRAM BOT TOKEN``
+``GP_API_KEY : get from👇``
 
 GET YOUR ``GP_API_KEY`` FROM [HERE](https://gplinks.in/member/tools/api)
 # COMMANDS
 
 ``/start - To stat the bot``
 
-
-## HELP ME
-
-For any type of help on deploy. Contact us on [INDUS CHATS](https://t.me/induschats).
 
 ## Star this Repo if you Liked it ⭐⭐⭐
