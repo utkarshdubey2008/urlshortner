@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . "/config.php";
-////////BENCHAMIN LOUIS//////
-//CHANNEL:- T.ME/INDUSBOTS////
+////////AlphaBots//////
+//CHANNEL:- T.ME/TheAlphaBotz////
 error_reporting(0);
 
 set_time_limit(0);
@@ -53,9 +53,9 @@ $short = $get['shortenedUrl'];
 if($get['shortenedUrl']){
 bot('sendmessage', [
                 'chat_id' =>$chat_id,
-                'text'=>"<b>Thank you for using me☺
+                'text'=>"<b>Thank you for using me😃🇮🇳
 
-YOUR SHORTEN URL: </b> <code>$short</code>
+YOUR SHORTEN URL👉: </b> <code>$short</code>
 
 <b>LONG URL:</b> <code>$text</code>
 
